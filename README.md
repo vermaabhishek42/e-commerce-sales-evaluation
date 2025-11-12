@@ -1,6 +1,6 @@
 # ecommerce sales evaluation 
 
-this project is to ------------
+this project is to.... Building a predictive model using Machine Learning by leveraging historical data to predict future sales volume and profits for e-commerce products across multiple categories/devices/platforms such as Amazon, Flipkart, Myntra etc as well providing more insights on customers’ preferences over time to understand demand variations by taking into account features such as Size/Color/Platform specific pricing etc
 
 ## data sets
 - link to data sets
